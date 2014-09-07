@@ -29,6 +29,3 @@ group :development do
   gem 'debugger'
 end
 
-group :production do
-  gem 'rails_12factor'
-end
